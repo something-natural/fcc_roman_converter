@@ -45,7 +45,7 @@ h1{
     padding: 4px;
 }
 
-#result{
+#output{
     margin: 10px 0;
     min-width: 200px;
     width:fit-content;
@@ -62,7 +62,7 @@ h1{
     .input-container{
         flex-direction: row;
     }
-    #result{
+    #output{
         max-width:460px;
     }
 }
